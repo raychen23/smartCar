@@ -31,4 +31,6 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+![image](https://github.com/raychen23/smartCar/blob/4b645ba187a04b3b07b996cc975fafd3319f81f4/image/articlethumb_97_50114.jpg)  
 
+Figure 7. Electric car in Taiwan.
